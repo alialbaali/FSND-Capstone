@@ -1,6 +1,6 @@
 # Casting Agency
 
-###### Casting Agency models a company that is responsible for creating movies and managing and assigning actors to those movies.
+#### Casting Agency models a company that is responsible for creating movies and managing and assigning actors to those movies.
 
 #### [Link](https://casting-agency-udacity-capston.herokuapp.com/).
 
